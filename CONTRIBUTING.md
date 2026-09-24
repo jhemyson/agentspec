@@ -119,7 +119,7 @@ See existing skills (`visual-explainer`, `excalidraw-diagram`) for examples, and
 
 ## Bug Fixes
 
-1. Check [existing issues](https://github.com/luanmorenommaciel/agentspec/issues)
+1. Check [existing issues](https://github.com/jhemyson/agentspec/issues)
 2. Create a branch from `develop`: `git checkout develop && git checkout -b fix/description`
 3. Make your fix
 4. Submit a PR with a clear description of the problem and solution
@@ -203,5 +203,5 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/). Be 
 
 ## Questions?
 
-- [Open an issue](https://github.com/luanmorenommaciel/agentspec/issues)
-- [Start a discussion](https://github.com/luanmorenommaciel/agentspec/discussions)
+- [Open an issue](https://github.com/jhemyson/agentspec/issues)
+- [Start a discussion](https://github.com/jhemyson/agentspec/discussions)

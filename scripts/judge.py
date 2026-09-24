@@ -349,7 +349,7 @@ def call_openrouter(
         headers={
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://github.com/luanmorenommaciel/agentspec",
+            "HTTP-Referer": "https://github.com/jhemyson/agentspec",
             "X-Title": "AgentSpec Judge V0",
         },
         method="POST",
