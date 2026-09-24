@@ -2,6 +2,10 @@
   "name": "agentspec",
   "version": "3.6.0",
   "description": "Spec-Driven Development framework for Data Engineering — 58 agents, 24 KB domains, 5-phase SDD workflow, 31 commands",
+  "author": {
+    "name": "Jhemyson Sousa",
+    "url": "https://github.com/jhemyson"
+  },
   "license": "MIT",
   "repository": "https://github.com/jhemyson/agentspec",
   "homepage": "https://github.com/jhemyson/agentspec",
